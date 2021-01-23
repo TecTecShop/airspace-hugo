@@ -98,24 +98,15 @@ Otro dato de contacto:
 #### **Usted puede revocar su**  
 **consentimiento para el uso de sus datos personales**
 
-Usted puede revocar el  
-consentimiento que, en su caso, nos haya otorgado para el tratamiento de sus  
-datos personales. Sin embargo, es importante que tenga en cuenta que no en  
-todos los casos podremos atender su solicitud o concluir el uso de forma  
-inmediata, ya que es posible que por alguna obligación legal requiramos seguir tratando  
-sus datos personales. Asimismo, usted deberá considerar que para ciertos fines,  
-la revocación de su consentimiento implicará que no le podamos seguir prestando  
-el servicio que nos solicitó, o la conclusión de su relación con nosotros.
+Usted puede revocar el consentimiento que, en su caso, nos haya otorgado para el tratamiento de sus datos personales. Sin embargo, es importante que tenga en cuenta que no en todos los casos podremos atender su solicitud o concluir el uso de forma inmediata, ya que es posible que por alguna obligación legal requiramos seguir tratando sus datos personales. Asimismo, usted deberá considerar que para ciertos fines, la revocación de su consentimiento implicará que no le podamos seguir prestando el servicio que nos solicitó, o la conclusión de su relación con nosotros.
 
 Para revocar su consentimiento deberá presentar su solicitud a través del siguiente medio:  
   
 tectec.oficial@outlook.com
 
-Con relación al procedimiento y requisitos para la revocación de su consentimiento, le  
-informamos lo siguiente:  
+Con relación al procedimiento y requisitos para la revocación de su consentimiento, le informamos lo siguiente:  
   
-a) ¿A través de qué medios pueden acreditar su identidad el titular y, en su  
-caso, su representante, así como la personalidad este último?  
+a) ¿A través de qué medios pueden acreditar su identidad el titular y, en su caso, su representante, así como la personalidad este último?  
   
 Identificación Oficial.  
   
@@ -127,28 +118,24 @@ c) ¿En cuántos días le daremos respuesta a su solicitud?
   
 7 días hábiles.  
   
-d) ¿Por qué medio le  
-comunicaremos la respuesta a su solicitud?  
+d) ¿Por qué medio le comunicaremos la respuesta a su solicitud?  
   
 Correo electrónico  
   
-e) Para mayor información sobre el procedimiento, ponemos a disposición los  
-siguientes medios:  
+e) Para mayor información sobre el procedimiento, ponemos a disposición los siguientes medios:  
   
 tectec.oficial@outlook.com
 
 #### **¿Cómo puede limitar el uso**  
 **o divulgación de su información personal?**
 
-Con objeto de que usted pueda limitar el uso y divulgación de su información personal, le ofrecemos los  
-siguientes medios:  
+Con objeto de que usted pueda limitar el uso y divulgación de su información personal, le ofrecemos los siguientes medios:  
   
 A través del correo tectec.oficial@outlook.com
 
 #### **El uso de tecnologías de rastreo en nuestro portal de internet.**
 
-Le informamos que en nuestra página de internet utilizamos cookies, web beacons u otras tecnologías,  
-a través de las cuales es posible monitorear su comportamiento como usuario de internet, así como brindarle un mejor servicio y experiencia al navegar en nuestra página. Los datos personales que recabamos a través de estas tecnologías, los utilizaremos para los siguientes fines:  
+Le informamos que en nuestra página de internet utilizamos cookies, web beacons u otras tecnologías, a través de las cuales es posible monitorear su comportamiento como usuario de internet, así como brindarle un mejor servicio y experiencia al navegar en nuestra página. Los datos personales que recabamos a través de estas tecnologías, los utilizaremos para los siguientes fines:  
   
 Aviso de información o publicidad  
   
@@ -169,48 +156,10 @@ Nombre completo.
 
 #### **¿Cómo puede conocer los cambios en este aviso de privacidad?**
 
-El presente aviso de privacidad puede sufrir modificaciones, cambios o actualizaciones derivadas de  
-nuevos requerimientos legales; de nuestras propias necesidades por los productos o servicios que ofrecemos; de nuestras prácticas de privacidad; de cambios en nuestro modelo de negocio, o por otras causas.  
+El presente aviso de privacidad puede sufrir modificaciones, cambios o actualizaciones derivadas de nuevos requerimientos legales; de nuestras propias necesidades por los productos o servicios que ofrecemos; de nuestras prácticas de privacidad; de cambios en nuestro modelo de negocio, o por otras causas.  
   
 Nos comprometemos a mantenerlo informado sobre los cambios que pueda sufrir el presente aviso de privacidad, a través de: Correo electrónico de tectec.oficial@outlook.com.  
   
 El procedimiento a través del cual se llevarán a cabo las notificaciones sobre cambios o actualizaciones al presente aviso de privacidad es el siguiente:  
   
 Envío de correo electrónico con información detallada tectec.oficial@outlook.com.
-
-#### 2. Data We Collect
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
-
-#### 3. How We Use Data
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
-
-#### 4. How We Disclose Data.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
-
-#### 5. Security
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
-
-#### 6. Advertising.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
