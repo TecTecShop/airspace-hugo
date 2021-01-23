@@ -8,7 +8,7 @@ banner:
     el trabajo para brindarte lo mejor.
   button:
     enable: true
-    label: Discover Our Project
+    label: Servicios
     link: project
 about:
   enable: true
