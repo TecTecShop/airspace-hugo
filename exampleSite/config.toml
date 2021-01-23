@@ -14,7 +14,7 @@ languageName = "En"
 weight = 1
 [[Languages.en.menu.footer]]
 URL = "about"
-name = "About"
+name = "Acerca de"
 weight = 1
 [[Languages.en.menu.footer]]
 URL = "project"
