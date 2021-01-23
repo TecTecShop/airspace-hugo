@@ -9,8 +9,8 @@ information:
   info: Jannie Kelonsky
 - label: Qué hicimos
   info: 3 Aplicaciones móviles.
-- label: Tools Used
-  info: Photoshop,Illustrator
+- label: Herramientas utilizadas
+  info: Android, Java, Material Design
 - label: Completed on
   info: 17th March 2014
 - label: Skills
