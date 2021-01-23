@@ -125,15 +125,12 @@ Nombre completo, País, Número de contacto y Correo Electrónico.
   
 c) ¿En cuántos días le daremos respuesta a su solicitud?  
   
-7 días hábiles.
-
+7 días hábiles.  
   
 d) ¿Por qué medio le  
 comunicaremos la respuesta a su solicitud?  
   
 Correo electrónico  
-  
-  
   
 e) Para mayor información sobre el procedimiento, ponemos a disposición los  
 siguientes medios:  
