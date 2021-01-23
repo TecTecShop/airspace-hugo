@@ -54,7 +54,7 @@ name = "Blog"
 weight = 4
 [[Languages.en.menu.main]]
 hasChildren = true
-name = "Pages"
+name = "Páginas"
 weight = 5
 [[Languages.en.menu.main]]
 URL = "faq"
