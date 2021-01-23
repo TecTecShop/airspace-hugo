@@ -11,8 +11,8 @@ information:
   info: 3 Aplicaciones móviles.
 - label: Herramientas utilizadas
   info: Android, Java, Material Design
-- label: Completed on
-  info: 17th March 2014
+- label: Completado el
+  info: 10 Enero 2021 - Presente
 - label: Skills
   info: HTML5 / PHP / CSS3
 - label: Client
