@@ -70,7 +70,7 @@ name = "Servicios"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "contact"
-name = "Contact"
+name = "Contacto"
 weight = 6
 [Languages.fr]
 contentDir = "content/french"
