@@ -46,7 +46,7 @@ name = "Acerca de"
 weight = 2
 [[Languages.en.menu.main]]
 URL = "project"
-name = "Project"
+name = "Proyectos"
 weight = 3
 [[Languages.en.menu.main]]
 URL = "blog"
