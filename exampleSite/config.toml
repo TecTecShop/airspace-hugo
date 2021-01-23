@@ -80,18 +80,7 @@ languageName = "Fr"
 weight = "2"
 [Languages.fr.menu]
 footer = []
-[[Languages.fr.menu.main]]
-URL = "/"
-name = "Accueil"
-weight = 1
-[[Languages.fr.menu.main]]
-URL = "about"
-name = "À propos"
-weight = 2
-[[Languages.fr.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
+main = []
 [markup.goldmark.renderer]
 unsafe = true
 [outputs]
