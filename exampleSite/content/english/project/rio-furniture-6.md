@@ -5,7 +5,7 @@ image: "/images/localio.png"
 bg_image: images/featue-bg.jpg
 category: Aplicaciones
 information:
-- label: Client
+- label: Cliente
   info: Jannie Kelonsky
 - label: What We Did
   info: Website Redesign
