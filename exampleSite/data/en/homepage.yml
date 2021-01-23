@@ -12,11 +12,8 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
-  description: Muéstrate a la vanguardia de la tecnología, con tu propia página web
-    como tu carta de presentación o aún más, si tienes un negocio dele un giro total
-    con su propia página web para que más personas te conozcan desde la comodidad
-    de sus hogares.
+  title: Acerca de nosotros
+  description: TecTecShop busca acelerar la digitalización.
   content: 'Muéstrate a la vanguardia de la tecnología, con tu propia página web como
     tu carta de presentación o aún más, si tienes un negocio dele un giro total con
     su propia página web para que más personas te conozcan desde la comodidad de sus
