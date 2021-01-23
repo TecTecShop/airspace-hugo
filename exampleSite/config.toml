@@ -146,12 +146,12 @@ home = ["HTML"]
 author = "Themefisher"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "tectec.oficial@outlook.com"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = "Cuautitlan Izcalli, c.p. 54710, en la entidad de Estado de México, país México,"
 logo = "images/TecTec.png"
 logo_width = "150px"
-mobile = "0124857985320"
+mobile = "+52 5542692890"
 multi_author = false
 [params.cookies]
 enable = true
