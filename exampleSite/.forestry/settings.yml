@@ -22,25 +22,11 @@ sections:
   match: "**/*"
   templates:
   - author
-- type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - author
 - type: heading
   label: Project
 - type: directory
   path: exampleSite/content/english/project
   label: Project (en)
-  create: documents
-  match: "**/*"
-  templates:
-  - project
-- type: directory
-  path: exampleSite/content/french/project
-  label: Project (fr)
   create: documents
   match: "**/*"
   templates:
@@ -53,28 +39,13 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/about
-  label: About (fr)
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/english/service
   label: Service (en)
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/service
-  label: Service (fr)
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/english/pricing
   label: Pricing (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/french/pricing
-  label: Pricing (fr)
   create: none
   match: "*"
 - type: directory
