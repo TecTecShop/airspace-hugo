@@ -54,11 +54,6 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/faq
-  label: FAQ (fr)
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/english/contact
   label: Contact (en)
   create: none
@@ -89,23 +84,11 @@ sections:
   match: "**/*"
   templates:
   - new-page
-- type: directory
-  path: exampleSite/content/french
-  label: All Pages (fr)
-  create: all
-  match: "**/*"
-  templates:
-  - new-page
 - type: heading
   label: Data
 - type: directory
   path: exampleSite/data/en
   label: Data (en)
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/data/fr
-  label: Data (fr)
   create: all
   match: "**/*"
 - type: directory
