@@ -1,6 +1,6 @@
 ---
-title: Rio Furniture
-description: this is meta description
+title: Localitos Delivery App
+description: Aplicación para pedir comida a domicilio.
 image: "/images/localio.png"
 bg_image: images/featue-bg.jpg
 category: Video
