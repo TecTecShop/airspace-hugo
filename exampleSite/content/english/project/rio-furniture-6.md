@@ -12,7 +12,7 @@ information:
 - label: Herramientas utilizadas
   info: Android, Java, Material Design
 - label: Completado el
-  info: 10 Enero 2021 - Presente
+  info: 10 Enero 2021
 - label: Skills
   info: HTML5 / PHP / CSS3
 - label: Client
