@@ -74,7 +74,7 @@ name = "Contact"
 weight = 6
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 TecTec Shop All Rights Reserved"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
