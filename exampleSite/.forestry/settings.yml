@@ -59,21 +59,9 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/french/contact
-  label: Contact (fr)
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/english/pages
   label: Created Pages (en)
   create: documents
-  match: "**/*"
-  templates:
-  - new-page
-- type: directory
-  path: exampleSite/content/french/pages
-  label: Created Pages (fr)
-  create: all
   match: "**/*"
   templates:
   - new-page
