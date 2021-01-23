@@ -62,8 +62,8 @@ funfacts:
     name: Tazas de café
     count: "99"
   - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: "45"
+    name: Artículos escritos
+    count: "11"
   - icon: ion-ios-compose-outline
     name: Projects Completed
     count: "125"
