@@ -36,14 +36,12 @@ service:
   title: Nuestros servicios
   description: Te brindamos servicios para tu negocio, celular o crecimiento personal.
   service_item:
-  - icon: ion-coffee
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-android-pin
+    name: GPS
+    content: Servicio de instalación para automóviles.
   - icon: ion-compass
     name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: Desarrollo back y front en tecnologías emergentes.
   - icon: ion-image
     name: Diseño de Aplicaciones
     content: Creamos aplicaciones móviles nativas, otorgamos un gran rendimiento y
@@ -61,12 +59,10 @@ service:
     content: Actualiza tu negocio creando su página web, lograrás añadirle más clientes
       así como clientes de diferentes lugares.
   - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Crecimiento
+    content: Crecimiento acelerado.
   - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Globalización
+    content: Nos emocionan los retos del mundo moderno.
 cta:
   enable: true
