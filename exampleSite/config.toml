@@ -62,7 +62,7 @@ name = "FAQ"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "pricing"
-name = "Pricing"
+name = "Precios"
 parent = "Pages"
 [[Languages.en.menu.main]]
 URL = "service"
