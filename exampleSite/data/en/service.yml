@@ -53,9 +53,9 @@ service:
     content: Necesitas una remoción de cuenta hasta una liberación de compañía nosotros
       te ayudamos, cotiza tu servicio.
   - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Página Web Personal
+    content: Hacemos tu página web con lo que necesites, para darle un toque de formalismo
+      a tu carta de presentación.
   - icon: ion-leaf
     name: Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
