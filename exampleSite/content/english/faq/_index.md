@@ -1,24 +1,20 @@
 ---
-title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-date: 2020-03-23T13:05:29+06:00
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Preguntas frecuentes
+description: this is meta description
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
+date: 2020-03-23T13:05:29.000+06:00
+bg_image: images/featue-bg.jpg
+
 ---
+### **¿Quiénes somos?**
 
-### Welcome to Airspace!
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+Rogelio Ortega Barrera, mejor conocido como Tectecshop, con domicilio en calle Huerta de Acatlan 27A, colonia Cofradía II, ciudad Cuautitlan Izcalli, municipio o delegación  
+Cuautitlan Izcalli, c.p. 54710, en la entidad de Estado de México, país México,  
+y portal de internet [https://tectecshop.com,](https://tectecshop.com, "https://tectecshop.com,") es el responsable del uso y protección de sus datos personales, y al respecto le informamos lo siguiente:
 
 #### 1.Overview
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
 neque excepturi aliquid. Eligendi, mollitia.
@@ -59,4 +55,3 @@ Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam 
 voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
 provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
 expedita, ad.
-  
