@@ -7,8 +7,8 @@ category: Aplicaciones
 information:
 - label: Cliente
   info: Jannie Kelonsky
-- label: What We Did
-  info: Website Redesign
+- label: Qué hicimos
+  info: 3 Aplicaciones móviles.
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
