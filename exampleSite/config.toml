@@ -38,7 +38,7 @@ name = "Contact"
 weight = 6
 [[Languages.en.menu.main]]
 URL = "/"
-name = "Home"
+name = "Inicio"
 weight = 1
 [[Languages.en.menu.main]]
 URL = "about"
