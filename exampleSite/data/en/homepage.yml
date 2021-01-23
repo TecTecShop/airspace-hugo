@@ -65,8 +65,8 @@ funfacts:
     name: Artículos escritos
     count: "11"
   - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
+    name: Proyectos completados
+    count: "15"
   - icon: ion-ios-timer-outline
     name: Combined Projects
     count: "200"
