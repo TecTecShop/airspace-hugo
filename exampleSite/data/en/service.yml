@@ -51,7 +51,7 @@ service:
   - icon: ion-bug
     name: Servicios Técnicos
     content: Necesitas una remoción de cuenta hasta una liberación de compañía nosotros
-      te ayudamos, cotiza tu servicio en el siguiente apartado.
+      te ayudamos, cotiza tu servicio.
   - icon: ion-headphone
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
