@@ -1,6 +1,6 @@
 ---
 title: Nuestros precios
-description: this is meta description
+description: Consulta nuestros precios, tenemos planes que se adaptan a tus necesidades.
 bg_image: images/featue-bg.jpg
 
 ---
