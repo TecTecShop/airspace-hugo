@@ -14,9 +14,7 @@ information:
 - label: Completado el
   info: 10 Enero 2021
 - label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
+  info: Java / Android / Cloud computing
 
 ---
 ## Localitos
