@@ -16,11 +16,11 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: Interface Design
+  - name: Diseño de Interfaces
     icon: ion-erlenmeyer-flask
     color: primary
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: Diseñamos interfaces hermosas, para atraer a todos tus posibles clientes
+      desde el primer momento en el que ingresan a tu pagina.
   - name: Creamos tu Marca
     icon: ion-leaf
     color: primary-dark
