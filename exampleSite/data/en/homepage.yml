@@ -72,16 +72,16 @@ funfacts:
     image: images/clients/avater-1.jpg
     designation: CEO - TecTec Shop
     content: Creamos experiencias únicas para que tu negocio tenga éxito en internet.
-  - name: Axel
-    image: "/images/newphoto.png"
-    designation: Developer in TecTec Shop
-    content: Apasionado por la ciencia y la tecnología que siempre busca experimentar
-      con nuevas tecnologías para crear aplicaciones eficientes.
   - name: Francisco
     image: "/images/franc200x200.jpeg"
     designation: Developer - TecTec Shop
     content: Otorgar un producto de primera calidad y estar satisfecho siempre por
       tu trabajo.
+  - name: Axel
+    image: "/images/newphoto.png"
+    designation: Developer in TecTec Shop
+    content: Apasionado por la ciencia y la tecnología que siempre busca experimentar
+      con nuevas tecnologías para crear aplicaciones eficientes.
   - name: Martin
     image: "/images/marc200x200.jpeg"
     designation: Developer in TecTec Shop
