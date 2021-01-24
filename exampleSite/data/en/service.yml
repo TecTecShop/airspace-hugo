@@ -21,11 +21,12 @@ featured_service:
     color: primary
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
-  - name: Product Branding
+  - name: Creamos tu Marca
     icon: ion-leaf
     color: primary-dark
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: Somos expertos creando sitios web profesionales, además de otorgarte
+      un buen posicionamiento en los navegadores y apoyarte en la creación de logos
+      y toda la documentación que probablemente no quieras hacer.
   - name: Desarrollo de videojuegos
     icon: ion-lightbulb
     color: primary-darker
