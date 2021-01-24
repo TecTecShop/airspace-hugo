@@ -44,9 +44,9 @@ cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
   title: Diseñamos experiencias digitales encantadoras.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  content: Otorgar una experiencia increíble a tus usuarios permitiendo deseen contárselo
+    a sus conocidos, además de garantizar seguridad y un diseño profesional que cautivara
+    a tus clientes.
   button:
     enable: true
     label: Contactanos
