@@ -3,7 +3,7 @@ pricing:
   enable: true
   pricing_table:
   - name: Basico
-    price: "$1200 MXM"
+    price: "$1200 MX"
     content: Perfect for single freelancers who work by themselves
     link: "#"
     services:
