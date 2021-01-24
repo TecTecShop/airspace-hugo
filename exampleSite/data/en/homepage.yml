@@ -51,9 +51,9 @@ cta:
 funfacts:
   enable: true
   title: Datos curiosos sobre nosotros
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  description: "'Somos apasionados en lo que hacemos, nuestro equipo gusta de ayudar
+    a lo demás y no se queda sin hacer nada ni los fines de semana!! <br> Conócelos
+    mas en esta sección.'"
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Tazas de café
