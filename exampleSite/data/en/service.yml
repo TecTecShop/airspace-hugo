@@ -26,11 +26,11 @@ featured_service:
     color: primary-dark
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
-  - name: Game Development
+  - name: Desarrollo de videojuegos
     icon: ion-lightbulb
     color: primary-darker
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: Hacemos realidad tu juego deseado, utilizando motores utilizados en la
+      industria profesional, así como un equipo altamente capacitado.
 service:
   enable: true
   title: Nuestros servicios
