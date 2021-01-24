@@ -4,7 +4,8 @@ pricing:
   pricing_table:
   - name: Basico
     price: "$1200 MX"
-    content: Perfect for single freelancers who work by themselves
+    content: Perfecto para portafolios o pequeñas empresas que deseen darse a conocer
+      en internet.
     link: "#"
     services:
     - Unlimited agents
