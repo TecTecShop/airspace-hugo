@@ -25,14 +25,9 @@ portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
   title: CREEMOS EN LAS GRANDES IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  content: Somos lo que necesitas para hacer realidad tus ideas, para nosotros no
+    existen ideas malas, nosotros nos encargamos de darle forma a tus proyectos, terminarlos
+    y otorgarte la satisfacción a ti y a tu clientes de un software de excelente calidad
   button:
     enable: true
     label: View Works
