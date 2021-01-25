@@ -10,8 +10,8 @@ about:
 
     Buscamos otorgar un lugar a cada empresa en México en el ámbito tecnológico.
   button:
-    enable: false
-    label: Download Company Profile
+    enable: true
+    label: Visita Nuestras Redes Sociales.
     link: "#"
   funfacts:
   - icon: ion-ios-flask-outline
