@@ -55,7 +55,7 @@ features:
 testimonial:
   enable: true
 mission_vision:
-  enable: true
+  enable: false
   tabs:
   - name: Visión
     content: Formar parte de las empresas mas importantes en México en el desarrollo
