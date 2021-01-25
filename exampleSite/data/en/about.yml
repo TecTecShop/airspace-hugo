@@ -10,7 +10,7 @@ about:
 
     Buscamos otorgar un lugar a cada empresa en México en el ámbito tecnológico.
   button:
-    enable: true
+    enable: false
     label: Download Company Profile
     link: "#"
   funfacts:
