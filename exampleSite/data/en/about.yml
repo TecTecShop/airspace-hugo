@@ -47,9 +47,8 @@ features:
     content: Desarrollar aplicaciones limpias, nativas, elegantes y únicas para satisfacer
       tus necesidades.
   - icon: ion-ios-lightbulb-outline
-    name: UI/UX Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: 'Diseño UI/UX '
+    content: Desarrollo back y front en tecnologías emergentes.
   - icon: ion-ios-star-outline
     name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
