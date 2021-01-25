@@ -28,7 +28,7 @@ about:
     count: "8"
 features:
   enable: true
-  title: Somos una agencia de diseño y desarrollo independiente.
+  title: Somos una agencia de diseño, desarrollo y servicios independiente.
   feature_item:
   - icon: ion-ios-color-filter-outline
     name: IOS App Development
