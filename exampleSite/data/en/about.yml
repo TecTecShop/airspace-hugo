@@ -50,9 +50,8 @@ features:
     name: 'Diseño UI/UX '
     content: Desarrollo back y front en tecnologías emergentes.
   - icon: ion-ios-star-outline
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: GPS
+    content: Servicio de instalación para automóviles.
 testimonial:
   enable: true
 mission_vision:
