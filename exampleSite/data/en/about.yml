@@ -31,9 +31,9 @@ features:
   title: Somos una agencia de diseño, desarrollo y servicios independiente.
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Desarrollo de aplicaciones IOS
+    content: Desarrollar aplicaciones limpias, elegantes y únicas para satisfacer
+      tus necesidades.
   - icon: ion-ios-unlocked-outline
     name: App Secutity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
