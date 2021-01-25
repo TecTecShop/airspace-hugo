@@ -12,7 +12,7 @@ about:
   button:
     enable: true
     label: Visita Nuestras Redes Sociales.
-    link: "#"
+    link: https://www.facebook.com/Tectecshop-102212328201838/?epa=SEARCH_BOX
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
